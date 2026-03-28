@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://plus.ki1.me/$1"
+    }
+  ]
+}
